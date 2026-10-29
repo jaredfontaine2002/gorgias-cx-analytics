@@ -1,5 +1,7 @@
 # Gorgias CX Analytics — Bike Shop
 
+![Gorgias CX analytics — first-response, resolution and CSAT metrics by bike-shop ticket tag](assets/gorgias-thumbnail.png)
+
 A helpdesk analytics toolkit for a cycling retailer's Gorgias instance: take a
 ticket export, get first-response / resolution / CSAT metrics, SLA breach
 rates, and staffing recommendations — all broken down by bike-shop ticket
@@ -40,3 +42,7 @@ policies.
 - Sizing questions are the top volume driver — a fit-guide help article +
   auto-reply macro cuts these down
 - Ticket peak at 10:00 — staff coverage there first
+
+![Median first-response time by ticket tag](charts/frt_by_tag.png)
+![CSAT score by ticket tag](charts/csat_by_tag.png)
+![Ticket volume by hour of day](charts/volume_by_hour.png)
