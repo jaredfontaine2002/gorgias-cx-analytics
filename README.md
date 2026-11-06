@@ -53,3 +53,12 @@ policies.
 ![Median first-response time by ticket tag](charts/frt_by_tag.png)
 ![CSAT score by ticket tag](charts/csat_by_tag.png)
 ![Ticket volume by hour of day](charts/volume_by_hour.png)
+
+## What I'd do next
+
+- CSAT comment mining — the scores say where it hurts; the free-text
+  comments say why. That's the next dataset I'd pull.
+- A per-agent coaching view: not a league table, but each agent's tags
+  and times against the team median, so a manager can coach the gap.
+- Week-over-week SLA drift alerts. A breach rate that creeps 2% a week
+  is invisible in a monthly report and obvious in a drift alert.
