@@ -11,6 +11,13 @@ Built by a **Gorgias Admin– and CX-certified** operator (that's me) who has ru
 support on Gorgias, Zendesk, and Tidio across three cycling brands. The tags,
 SLA targets, and recommendations reflect how bike-shop support actually works.
 
+## Why I built this
+
+I'm Gorgias Admin and CX certified and I've run this helpdesk. The built-in
+reports tell you volume. They don't tell you that warranty tickets are
+quietly wrecking your response times while sizing questions eat the morning.
+This takes a normal ticket export apart by the tags bike shops actually use.
+
 ## What's inside
 
 - `data/generate_tickets.py` — generates a realistic synthetic Gorgias export
